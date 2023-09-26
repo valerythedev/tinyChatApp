@@ -1,0 +1,22 @@
+{
+  "name": "tiny_chat_app",
+  "version": "1.0.0",
+  "description": "a tiny chat app that allows coversation between two users in real time.",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valerythedev/tinyChatApp.git"
+  },
+  "keywords": [
+    "tinyChatApp"
+  ],
+  "author": "ValeryGonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valerythedev/tinyChatApp/issues"
+  },
+  "homepage": "https://github.com/valerythedev/tinyChatApp#readme"
+}
